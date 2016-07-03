@@ -56,13 +56,14 @@ def is_file_one_week_old(file):
 
 
 def prompt_delete(file):
+   
     user_answer = None
     print("0 = NO & 1 = YES")
+
     while user_answer not in ["0", "1"]:
         user_answer= raw_input("Do you want to delete " + file + "?")
 
-
-    if(user_answer == "0"):
+     if(user_answer == "0"):
         return False
     if(user_answer == "1"):
         return True

@@ -10,7 +10,7 @@ Download Launcher: https://github.com/ggill24/Windows-Download-Folder-Cleaner/bl
 NOTE: The Launcher runs hidden from view unless an exception occurs. If you would like to kill the launcher you can do so through
 the taskmanager
 
-Note 2: You must edit the launcher sources path to the cleaner.py executable as it will be different for every machine
+Note 2: You must edit the launcher source path to the cleaner.py executable as it will be different for every machine
 
 Note 3: If you would like the program to run automatically after you restart your computer you can place the launcher in your startup
 folder. 
